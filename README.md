@@ -27,9 +27,9 @@
 
 <div style="margin:30px 0px;">
 <h3>网站链接:</h3>
-<div style="padding:10px;border-style:groove;display:inline-flex;flex-direction:column;">
-<a href="https://www.bridgedacademy.com/">BridgED官网</a>
-<a href="https://www.facebook.com/BridgEDAcad/">BridgED Facebook</a>
-<a href="https://youtu.be/F_bXEBSEYQg">[Windows] VS Code & Python 安装指南 | Installation Guide</a>
-</div>
+<ul>
+<li><a href="https://www.bridgedacademy.com/">BridgED官网</a></li>
+<li><a href="https://www.facebook.com/BridgEDAcad/">BridgED Facebook</a></li>
+<li><a href="https://youtu.be/F_bXEBSEYQg">[Windows] VS Code & Python 安装指南 | Installation Guide</a></li>
+</ul>
 </div>
